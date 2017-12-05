@@ -2,4 +2,4 @@ this is a test file
 yes it is
 author:stzhan
 date:2017-12-5
-place:beijing
+place:beijing,shanghai
